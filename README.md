@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React JS, Vue JS etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-  email : sandifauzanrabani01@gmail.com
-  facebook : https://www.facebook.com/san.fauzan.79/
+  <br>email : sandifauzanrabani01@gmail.com
+  <br>facebook : https://www.facebook.com/san.fauzan.79/
 
 <!---
 cyronito/cyronito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
